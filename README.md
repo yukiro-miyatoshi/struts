@@ -5,6 +5,7 @@ The Apache Struts web framework
 [![Build Status @ Travis](https://travis-ci.org/apache/struts.svg?branch=master)](https://travis-ci.org/apache/struts)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.struts/struts2-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.apache.struts/struts2-core/)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fstruts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fstruts?ref=badge_shield)
 
 The Apache Struts web framework is a free open-source solution for creating Java web applications.
 
@@ -39,3 +40,7 @@ It is usually very easy to integrate other technologies with Apache Struts. If y
 Unlike other, component oriented frameworks, we do not aim to hide the stateless nature of the web. We think it is perfectly acceptable to build upon a Request/Response cycle. We also think the MVC pattern is not so bad, just because it is old. In fact, we believe the Apache Struts architecture is clean and easy to understand.
 
 Of course, if you wish to build components on the server side which render on the front end side, you are most likely wrong with Struts. This is a different approach which promises to reduce the amount of HTML/JavaScript knowledge needed and to create reusable components for the view layer. Projects like Wicket and Tapestry serve this purpose very well. As with every framework you need to decide if it makes sense for you to build components or if you are better with the Struts-approach.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fstruts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyukiro-miyatoshi%2Fstruts?ref=badge_large)
